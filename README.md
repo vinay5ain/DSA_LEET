@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vinay5ain/DSA_LEET/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/vinay5ain/DSA_LEET/tree/master/0412-fizz-buzz) |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
