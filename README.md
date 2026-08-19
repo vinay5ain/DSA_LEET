@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vinay5ain/DSA_LEET/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/vinay5ain/DSA_LEET/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vinay5ain/DSA_LEET/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vinay5ain/DSA_LEET/tree/master/1563-stone-game-v) |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
