@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinay5ain/DSA_LEET/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/vinay5ain/DSA_LEET/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/vinay5ain/DSA_LEET/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vinay5ain/DSA_LEET/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vinay5ain/DSA_LEET/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vinay5ain/DSA_LEET/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vinay5ain/DSA_LEET/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/vinay5ain/DSA_LEET/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vinay5ain/DSA_LEET/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinay5ain/DSA_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinay5ain/DSA_LEET/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -112,29 +114,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vinay5ain/DSA_LEET/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinay5ain/DSA_LEET/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vinay5ain/DSA_LEET/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vinay5ain/DSA_LEET/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vinay5ain/DSA_LEET/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vinay5ain/DSA_LEET/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
