@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vinay5ain/DSA_LEET/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/vinay5ain/DSA_LEET/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vinay5ain/DSA_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/vinay5ain/DSA_LEET/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinay5ain/DSA_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/vinay5ain/DSA_LEET/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/vinay5ain/DSA_LEET/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vinay5ain/DSA_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vinay5ain/DSA_LEET/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vinay5ain/DSA_LEET/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vinay5ain/DSA_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/vinay5ain/DSA_LEET/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/vinay5ain/DSA_LEET/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/3904-smallest-stable-index-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vinay5ain/DSA_LEET/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinay5ain/DSA_LEET/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
 |  |
