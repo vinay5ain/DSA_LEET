@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vinay5ain/DSA_LEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/vinay5ain/DSA_LEET/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/vinay5ain/DSA_LEET/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/vinay5ain/DSA_LEET/tree/master/1254-number-of-closed-islands) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vinay5ain/DSA_LEET/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/vinay5ain/DSA_LEET/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/vinay5ain/DSA_LEET/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vinay5ain/DSA_LEET/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/vinay5ain/DSA_LEET/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/vinay5ain/DSA_LEET/tree/master/1137-n-th-tribonacci-number) |
