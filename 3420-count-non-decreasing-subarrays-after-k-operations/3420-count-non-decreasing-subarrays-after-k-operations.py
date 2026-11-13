@@ -2,8 +2,6 @@ class Solution:
   def countNonDecreasingSubarrays(self, nums: list[int], k: int) -> int:
     ans = 0
     cost = 0
-    # Store (number, count) pairs in non-increasing order. The numbers in the
-    # queue represent what nums[i..j] look like after adjustments.
     dq = collections.deque()
 
     j = len(nums) - 1
